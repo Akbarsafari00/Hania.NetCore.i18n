@@ -1,5 +1,5 @@
 
-# Hania.NetCore.RabbitMQ
+# Hania.NetCore.i18n
 
 [![Build status](https://ci.appveyor.com/api/projects/status/q261l3sbokafmx1o/branch/master?svg=true)](https://www.nuget.org/packages/Hania.AutoIncluder/)
 [![NuGet](http://img.shields.io/nuget/v/Hania.NetCore.I18n.svg)](https://www.nuget.org/packages/Hania.NetCore.i18n/)
