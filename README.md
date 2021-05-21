@@ -2,7 +2,7 @@
 # Hania.NetCore.RabbitMQ
 
 [![Build status](https://ci.appveyor.com/api/projects/status/q261l3sbokafmx1o/branch/master?svg=true)](https://www.nuget.org/packages/Hania.AutoIncluder/)
-[![NuGet](http://img.shields.io/nuget/v/Hania.NetCore.i18n.svg)](https://www.nuget.org/packages/Hania.NetCore.i18n/)
+[![NuGet](http://img.shields.io/nuget/v/Hania.NetCore.I18n.svg)](https://www.nuget.org/packages/Hania.NetCore.i18n/)
 [![Author](https://img.shields.io/badge/Author-Akbar%20Ahmadi%20Saray-brightgreen.svg)](https://www.nuget.org/packages/Hania.NetCore.i18n/)
 [![Linkdin](https://img.shields.io/badge/Linkdin-Akbar%20Ahmadi%20Saray-orange.svg)](https://www.linkedin.com/in/akbar-ahmadi-saray-5a5b9016b/)
 
