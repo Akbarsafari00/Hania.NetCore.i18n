@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <treeState key="project">
+      <selectedPath>
+        <pathElement>
+          <option name="myNodeId" value="helperText" />
+          <option name="myNodeType" value="jetbrains.buildServer.tree.descriptors.LinkedTextDescriptor" />
+        </pathElement>
+      </selectedPath>
+    </treeState>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6ffad7fb-ca35-4bc0-977e-dce7c3810c0b" name="Default Changelist" comment="init">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Hania.NetCore.i18n/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Hania.NetCore.i18n/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Hania.NetCore.i18n/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Hania.NetCore.i18n/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Hania.NetCore.i18n/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Hania.NetCore.i18n/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Hania.NetCore.i18n/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Hania.NetCore.i18n/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Hania.NetCore.i18n/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/Controllers/ApiController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/Hania.NetCore.i18n.Sample.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/Properties/launchSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/Startup.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/Translates/en/User.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/Translates/tr/User.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/appsettings.Development.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/bin/Debug/netcoreapp3.1/Hania.NetCore.i18n.Sample.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/bin/Debug/netcoreapp3.1/Hania.NetCore.i18n.Sample.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/bin/Debug/netcoreapp3.1/Hania.NetCore.i18n.Sample.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/bin/Debug/netcoreapp3.1/Hania.NetCore.i18n.Sample.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/bin/Debug/netcoreapp3.1/Hania.NetCore.i18n.Sample.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/bin/Debug/netcoreapp3.1/Hania.NetCore.i18n.Sample.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/bin/Debug/netcoreapp3.1/Hania.NetCore.i18n.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/bin/Debug/netcoreapp3.1/Hania.NetCore.i18n.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.JsonPatch.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/bin/Debug/netcoreapp3.1/Translates/en/User.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/bin/Debug/netcoreapp3.1/Translates/tr/User.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/bin/Debug/netcoreapp3.1/appsettings.Development.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/bin/Debug/netcoreapp3.1/appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/bin/Hania.NetCore.i18n.Sample.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/bin/Hania.NetCore.i18n.Sample.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/bin/Hania.NetCore.i18n.Sample.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/bin/Hania.NetCore.i18n.Sample.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/bin/Hania.NetCore.i18n.Sample.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/bin/Hania.NetCore.i18n.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/bin/Hania.NetCore.i18n.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/bin/Microsoft.AspNetCore.JsonPatch.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/bin/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/bin/Microsoft.AspNetCore.Razor.Language.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/bin/Microsoft.CodeAnalysis.CSharp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/bin/Microsoft.CodeAnalysis.Razor.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/bin/Microsoft.CodeAnalysis.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/bin/Microsoft.DotNet.PlatformAbstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/bin/Microsoft.Extensions.DependencyInjection.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/bin/Microsoft.Extensions.DependencyModel.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/bin/Newtonsoft.Json.Bson.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/bin/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/bin/Translates/en/User.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/bin/Translates/tr/User.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/bin/appsettings.Development.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/bin/appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/bin/web.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/obj/Debug/net5.0/Hania.NetCore.i18n.Sample.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/obj/Debug/net5.0/Hania.NetCore.i18n.Sample.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/obj/Debug/net5.0/Hania.NetCore.i18n.Sample.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/obj/Debug/net5.0/Hania.NetCore.i18n.Sample.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/obj/Debug/net5.0/Hania.NetCore.i18n.Sample.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/obj/Debug/netcore3.1/Hania.NetCore.i18n.Sample.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/obj/Debug/netcoreapp3.1/Hania.NetCore.i18n.Sample.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/obj/Debug/netcoreapp3.1/Hania.NetCore.i18n.Sample.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/obj/Debug/netcoreapp3.1/Hania.NetCore.i18n.Sample.MvcApplicationPartsAssemblyInfo.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/obj/Debug/netcoreapp3.1/Hania.NetCore.i18n.Sample.RazorTargetAssemblyInfo.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/obj/Debug/netcoreapp3.1/Hania.NetCore.i18n.Sample.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/obj/Debug/netcoreapp3.1/Hania.NetCore.i18n.Sample.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/obj/Debug/netcoreapp3.1/Hania.NetCore.i18n.Sample.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/obj/Debug/netcoreapp3.1/Hania.NetCore.i18n.Sample.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/obj/Debug/netcoreapp3.1/Hania.NetCore.i18n.Sample.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/obj/Debug/netcoreapp3.1/Hania.NetCore.i18n.Sample.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/obj/Debug/netcoreapp3.1/Hania.NetCore.i18n.Sample.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/obj/Debug/netcoreapp3.1/Hania.NetCore.i18n.Sample.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/obj/Debug/netcoreapp3.1/PublishOutputs.247be09032.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/obj/Debug/netcoreapp3.1/apphost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/obj/Debug/netcoreapp3.1/staticwebassets/Hania.NetCore.i18n.Sample.StaticWebAssets.Manifest.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/obj/Debug/netcoreapp3.1/staticwebassets/Hania.NetCore.i18n.Sample.StaticWebAssets.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/obj/Hania.NetCore.i18n.Sample.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/obj/Hania.NetCore.i18n.Sample.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/obj/Hania.NetCore.i18n.Sample.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/obj/Hania.NetCore.i18n.Sample.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n.sln.DotSettings.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n/Abstracts/II18NLocalizer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n/Extensions/HttpContextExtensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n/Extensions/IServiceCollectionExtensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n/Hania.NetCore.i18n.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n/HaniaLocalizer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n/Options/HaniaI18NOptions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n/bin/Debug/netcoreapp3.1/Hania.NetCore.i18n.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n/bin/Debug/netcoreapp3.1/Hania.NetCore.i18n.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n/bin/Debug/netcoreapp3.1/Hania.NetCore.i18n.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n/obj/Debug/net472/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n/obj/Debug/net472/Hania.NetCore.i18n.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n/obj/Debug/net472/Hania.NetCore.i18n.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n/obj/Debug/net472/Hania.NetCore.i18n.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n/obj/Debug/net472/Hania.NetCore.i18n.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n/obj/Debug/netcoreapp3.1/Hania.NetCore.i18n.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n/obj/Debug/netcoreapp3.1/Hania.NetCore.i18n.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n/obj/Debug/netcoreapp3.1/Hania.NetCore.i18n.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n/obj/Debug/netcoreapp3.1/Hania.NetCore.i18n.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n/obj/Debug/netcoreapp3.1/Hania.NetCore.i18n.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n/obj/Debug/netcoreapp3.1/Hania.NetCore.i18n.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n/obj/Debug/netcoreapp3.1/Hania.NetCore.i18n.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n/obj/Debug/netcoreapp3.1/Hania.NetCore.i18n.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n/obj/Hania.NetCore.i18n.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n/obj/Hania.NetCore.i18n.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n/obj/Hania.NetCore.i18n.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n/obj/Hania.NetCore.i18n.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hania.NetCore.i18n/obj/project.packagespec.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Hania.NetCore.i18n.Sample/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Hania.NetCore.i18n.Sample/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Hania.NetCore.i18n/HaniaLocalizer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Hania.NetCore.i18n/Abstracts/II18NLocalizer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Hania.NetCore.i18n.Sample/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Hania.NetCore.i18n/Options/HaniaI18NOptions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/E91DC3BD-F69E-4207-B143-B1AE31C48D59/3/AuthenticationServiceCollectionExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Hania.NetCore.i18n.Sample/Controllers/ApiController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Hania.NetCore.i18n/Extensions/IServiceCollectionExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Hania.NetCore.i18n/Extensions/HttpContextExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/4A5F6FDA-FE76-4AE2-A73C-A5C381A895E2/5/EndpointRouteBuilderExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/ABD8126B-966E-414A-9571-A6B06E3B4A28/38/ControllerBase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/4A5F6FDA-FE76-4AE2-A73C-A5C381A895E2/AA/IEndpointRouteBuilder.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/4A5F6FDA-FE76-4AE2-A73C-A5C381A895E2/6/EndpointRoutingApplicationBuilderExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Hania.NetCore.i18n/Class1.cs" />
+        <option value="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/Hania.NetCore.i18n.Sample.csproj" />
+        <option value="$PROJECT_DIR$/Hania.NetCore.i18n/Hania.NetCore.i18n.csproj" />
+        <option value="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/Translates/User.json" />
+        <option value="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/Translates/en/User.json" />
+        <option value="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/Translates/tr/User.json" />
+        <option value="$PROJECT_DIR$/Hania.NetCore.i18n/Options/HaniaI18NOptions.cs" />
+        <option value="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/Controllers/TestController.cs" />
+        <option value="$PROJECT_DIR$/Hania.NetCore.i18n/Abstracts/II18NLocalizer.cs" />
+        <option value="$PROJECT_DIR$/Hania.NetCore.i18n/HaniaLocalizer.cs" />
+        <option value="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/Startup.cs" />
+        <option value="$PROJECT_DIR$/Hania.NetCore.i18n/Extensions/IServiceCollectionExtensions.cs" />
+        <option value="$PROJECT_DIR$/Hania.NetCore.i18n/Extensions/HttpContextExtensions.cs" />
+        <option value="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/Controllers/ApiController.cs" />
+        <option value="$PROJECT_DIR$/.git/info/exclude" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\AkbarAhmadi\Hania.NetCore.i18n\.idea\.idea.Hania.NetCore.i18n\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sqG0hLuihQ8tdKAHAVUzjnUckk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.4" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Publish to folder.Publish Hania.NetCore.i18n.Sample to folder">
+    <configuration name="Publish Hania.NetCore.i18n.Sample to folder" type="DotNetFolderPublish" factoryName="Publish to folder" temporary="true">
+      <riderPublish target_folder="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/bin" target_framework="netcoreapp3.1" uuid_high="5790242697469644363" uuid_low="-5337823195490033544" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Hania.NetCore.i18n.Sample" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/Hania.NetCore.i18n.Sample.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v5.0" />
+      <option name="LAUNCH_PROFILE_NAME" value="Hania.NetCore.i18n.Sample" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hania.NetCore.i18n.Sample: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Hania.NetCore.i18n.Sample/Hania.NetCore.i18n.Sample.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v5.0" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Publish to folder.Publish Hania.NetCore.i18n.Sample to folder" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ffad7fb-ca35-4bc0-977e-dce7c3810c0b" name="Default Changelist" comment="" />
+      <created>1621592485797</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621592485797</updated>
+      <workItem from="1621592489795" duration="6515000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1621608843586</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1621608843586</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init">
+      <created>1621608954838</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1621608954838</updated>
+    </task>
+    <task id="LOCAL-00003" summary="init">
+      <created>1621609030877</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1621609030877</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="691" y="241" key="#Publish_Hania.NetCore.i18n.Sample_to_folder" timestamp="1621599496572">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="691" y="241" key="#Publish_Hania.NetCore.i18n.Sample_to_folder/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1621599496572" />
+    <state width="418" height="466" key="DebuggerActiveHint" timestamp="1621596000425">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="418" height="466" key="DebuggerActiveHint/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1621596000425" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1621599497266">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1621599497266" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1621599497266">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1621599497266" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1621599497266">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1621599497266" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1621599497266">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1621599497266" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1621596016343">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1621596016343" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1621596016343">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1621596016343" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1621596016343">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1621596016343" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1621596016343">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1621596016343" />
+    <state width="1877" height="348" key="GridCell.Tab.2.bottom" timestamp="1621596016343">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1621596016343" />
+    <state width="1877" height="348" key="GridCell.Tab.2.center" timestamp="1621596016343">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1621596016343" />
+    <state width="1877" height="348" key="GridCell.Tab.2.left" timestamp="1621596016343">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1621596016343" />
+    <state width="1877" height="348" key="GridCell.Tab.2.right" timestamp="1621596016343">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1621596016343" />
+    <state width="1877" height="348" key="GridCell.Tab.3.bottom" timestamp="1621596016343">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.3.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1621596016343" />
+    <state width="1877" height="348" key="GridCell.Tab.3.center" timestamp="1621596016343">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.3.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1621596016343" />
+    <state width="1877" height="348" key="GridCell.Tab.3.left" timestamp="1621596016343">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.3.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1621596016343" />
+    <state width="1877" height="348" key="GridCell.Tab.3.right" timestamp="1621596016343">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.3.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1621596016343" />
+    <state width="1877" height="348" key="GridCell.Tab.4.bottom" timestamp="1621596016344">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.4.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1621596016344" />
+    <state width="1877" height="348" key="GridCell.Tab.4.center" timestamp="1621596016344">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.4.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1621596016344" />
+    <state width="1877" height="348" key="GridCell.Tab.4.left" timestamp="1621596016343">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.4.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1621596016343" />
+    <state width="1877" height="348" key="GridCell.Tab.4.right" timestamp="1621596016344">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.4.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1621596016344" />
+    <state x="552" y="251" key="Rider.ProjectTemplateDialog.Size" timestamp="1621592890774">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="251" key="Rider.ProjectTemplateDialog.Size/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1621592890774" />
+    <state x="670" y="200" key="RiderGenerateDialog" timestamp="1621594959869">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="670" y="200" key="RiderGenerateDialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1621594959869" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1621609165873">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1621609165873" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1621609328226">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1621609328226" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1621608940179">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1621608940179" />
+  </component>
+</project>

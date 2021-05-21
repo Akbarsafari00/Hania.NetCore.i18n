@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hania.NetCore.i18n.Sample", "Hania.NetCore.i18n.Sample\Hania.NetCore.i18n.Sample.csproj", "{505B130E-29FA-4E4B-B5EC-3E15AEF9E078}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hania.NetCore.i18n", "..\Package\Hania.NetCore.i18n\Hania.NetCore.i18n.csproj", "{098280EE-6DF3-4736-8285-52AAAC630849}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{505B130E-29FA-4E4B-B5EC-3E15AEF9E078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{505B130E-29FA-4E4B-B5EC-3E15AEF9E078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{505B130E-29FA-4E4B-B5EC-3E15AEF9E078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{505B130E-29FA-4E4B-B5EC-3E15AEF9E078}.Release|Any CPU.Build.0 = Release|Any CPU
+		{098280EE-6DF3-4736-8285-52AAAC630849}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{098280EE-6DF3-4736-8285-52AAAC630849}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{098280EE-6DF3-4736-8285-52AAAC630849}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{098280EE-6DF3-4736-8285-52AAAC630849}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
